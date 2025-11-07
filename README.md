@@ -1,2 +1,2 @@
 # galaxy-defenders--game
-Actividad evaluable Github, conflicto diego
+Actividad evaluable Git, versión final conflicto resuelto Adrian y Diego
